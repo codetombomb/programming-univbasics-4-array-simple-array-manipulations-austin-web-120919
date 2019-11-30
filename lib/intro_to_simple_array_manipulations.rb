@@ -22,11 +22,19 @@ end
 
 using_pop([hotdog_ingredients = "weiner", "bun", "mustard", "butter"])
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> b0284dd2206af7e313ebbc78ae9d43cc2f0093bd
 #Using pop with args-----------
 
 def pop_with_args(array)
  array.pop(2)
 end
+<<<<<<< HEAD
+=======
+
+>>>>>>> b0284dd2206af7e313ebbc78ae9d43cc2f0093bd
 pop_with_args([hotdog_ingredients = "weiner", "bun", "milk", "butter"])
 
 #Using shift---------------------pass
